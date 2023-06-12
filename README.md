@@ -36,7 +36,6 @@
 
 ### Output:
 ![4babf2e6-0965-48cb-8d12-b012c398fcd1](https://github.com/Nagul71/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118661118/702daa1f-5807-41f2-8f67-e92f90df66f4)
-![e784034a-dce1-475b-8f86-568abb3b8b1c](https://github.com/Nagul71/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118661118/d8f5b02e-b371-4c27-b867-1a3fc02d57ea)
 
 
 ### Name: K NAGUL
